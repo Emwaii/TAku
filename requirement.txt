@@ -1,8 +1,0 @@
-opencv-python==4.5.5.62
-numpy==1.22.1
-DateTime==4.3
-telepot==12.7
-imutils==0.5.4
-pandas==1.4.0
-requests==2.27.1
-schedule==1.1.0

@@ -1,0 +1,8 @@
+opencv-python
+numpy
+DateTime
+telepot
+imutils
+pandas
+requests
+schedule
