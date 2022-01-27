@@ -1,0 +1,7 @@
+{
+  "service": "Heroku",
+  "name": "TAku",
+  "description": "TAku GG",
+  "repository": "https://github.com/Emwaii/",
+  "keywords": ["php", "ta", "taku"]
+}
