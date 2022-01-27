@@ -1,7 +1,7 @@
 
-# Portofolio MY
+# MY
 
-by. Muhammad Yulianto (Emwai)
+by. MY (Emwai)
 
 
 
