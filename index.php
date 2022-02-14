@@ -68,13 +68,13 @@
         }
 
         function tambah() {
-            shell_exec('python dataset_2.py');
+            shell_exec('python ./dataset_2.py');
         }
         function train() {
-            shell_exec('python training.py');
+            shell_exec('python ./training.py');
         }
         function test() {
-            shell_exec('python Final_Code.py');
+            shell_exec('python ./Final_Code.py');
         }
         
         // function proto() {
